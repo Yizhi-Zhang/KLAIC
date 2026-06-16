@@ -1,0 +1,2 @@
+recursive-include src/klaic/data *
+recursive-include src/klaic/_vendor/kl_src *
