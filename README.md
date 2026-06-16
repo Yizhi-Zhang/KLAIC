@@ -29,7 +29,7 @@
 ### Install from source
 
 ```bash
-git clone https://github.com/<your-org>/KLAIC.git
+git clone https://github.com/ZhangMenghuan-Tongji/KLAIC.git
 cd KLAIC/KLAIC
 pip install .
 ```
