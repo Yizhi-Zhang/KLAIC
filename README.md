@@ -1,4 +1,4 @@
-# KLAIC: <u>K</u>inase <u>L</u>ibrary-based <u>A</u>ctivity <u>I</u>nference with <u>C</u>ontext constraints
+# KLAIC: <ins>K</ins>inase <ins>L</ins>ibrary-based <ins>A</ins>ctivity <ins>I</ins>nference with <ins>C</ins>ontext constraints
 
 ![label1](https://img.shields.io/badge/license-MIT-green)
 
