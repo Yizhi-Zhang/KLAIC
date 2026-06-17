@@ -162,11 +162,11 @@ Missing values are allowed and handled during z-score inference.
 
 ### Built-in reference data
 
-The following files are bundled under `src/klaic/data/` and loaded automatically at runtime:
+The following files are bundled under `src/klaic/data/` and loaded automatically at runtime. DeepLoc annotations currently cover reviewed human protein entries at the canonical, non-isoform level.
 
 ```
 src/klaic/data/
-├── curated_lib.csv                    # curated KSRs from 
+├── curated_lib.csv                    # curated KSRs from PhosphoSitePlus, PTMsigDB with iKiP-DB entries excluded, and the GPS 5.0 gold-standard set
 ├── deep_loc.pkl                       # DeepLoc subcellular localizations
 ├── kl_kinase_gname2uid.pkl            # KL-kinase gene name → UniProt ID map
 ├── string400.pkl                      # STRING protein pairs with combined score ≥ 400, supplemented by kinase–protein associations from Buljan et al.
