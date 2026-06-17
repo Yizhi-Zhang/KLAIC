@@ -196,7 +196,7 @@ Running the `klaic` command writes the following files to `--outdir`:
 ```
 results/
 ├── klaic_kinase_activity.csv                 # kinase activity matrix
-└── klaic_ksr_library_with_context_flag.csv # KSR library with context_flag
+└── klaic_ksr_library_with_context_flag.csv   # KSR library with context_flag
 ```
 
 ---
